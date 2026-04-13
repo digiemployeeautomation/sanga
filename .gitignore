@@ -49,3 +49,5 @@ supabase/.branches/
 *.key
 *.mobileprovision
 *.orig.*
+
+.vercel
