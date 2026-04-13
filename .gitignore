@@ -1,0 +1,51 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# builds
+dist/
+.next/
+.expo/
+out/
+build/
+*.tsbuildinfo
+
+# mobile
+android/
+ios/
+*.apk
+*.ipa
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+
+# Turbo
+.turbo/
+
+# Sentry
+.sentryclirc
+
+# EAS
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
